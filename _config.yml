@@ -56,7 +56,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: /2021/img/pretty_image.jpg
+      hero_image: /2021/img/bg.jpeg
   -
     scope:
       path: ""
