@@ -5,7 +5,8 @@ email: chilton@cs.columbia.edu
 description: >
   2nd Workshop on Human-AI Co-Creation with Generative Models
 # baseurl: "/bulma-clean-theme"
-url: "https://hai-gen2021.github.io"
+# url: "https://hai-gen2021.github.io"
+url: "https://hai-gen.github.io/2021"
 permalink: pretty
 #favicon: /path/to/favicon.png
 # gh_sponsor: chrisrhymes
