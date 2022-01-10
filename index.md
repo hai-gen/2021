@@ -4,7 +4,7 @@ subtitle: 2nd Workshop on Human-AI Co-Creation with Generative Models
 layout: page
 <!-- callouts: home_callouts -->
 show_sidebar: true
-hero_image: ../img/bg.jpeg
+hero_image: 2021/img/bg.jpeg
 ---
 
 <div class="notification is-info">
